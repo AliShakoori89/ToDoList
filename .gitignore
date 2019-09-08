@@ -1,0 +1,4 @@
+/ENV
+/.vscode
+/test.py
+/customer_list.json
